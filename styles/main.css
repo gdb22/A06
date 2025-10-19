@@ -54,7 +54,7 @@ footer p {
 
 .large {
     font-size: 125%;
-    text-shadow: 1px 1px maroon;
+    text-shadow: 2px 2px 5px red;
 }
 
 :root {
